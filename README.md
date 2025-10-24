@@ -41,7 +41,7 @@
 
 ### 📫 How to reach me
 
-- Email: your-email@example.com
+- Email: kpushpa1414@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 - Portfolio/Blog: [Your Website](https://yourwebsite.com) <!-- Add if you have one -->
 
