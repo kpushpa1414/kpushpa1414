@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K Pushpa</h1>
+<h1 align="center">Hi 👋, I'm Pushpa Kumari</h1>
 <h3 align="center">A passionate Bachelor of Arts student exploring creativity, culture, and communication</h3>
 
 <p align="center">
